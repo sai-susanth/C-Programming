@@ -1,3 +1,7 @@
 1. Find the size of structure without using sizeof() operator?
 2. Setting, Resetting and Toggle of bits.
 3. WAP to identify the Endianess of the system?
+4. WAP to find 2 largest number in a given Array?
+5. WAP to reverse a string using recursive and non recursive approach?
+6. WAP to reverse a given Hexadecimal number?
+7. WAP to encode a given decimal number to binary and decode back to decimal number?
