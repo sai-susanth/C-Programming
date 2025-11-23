@@ -5,3 +5,30 @@
 5. WAP to reverse a string using recursive and non recursive approach?
 6. WAP to reverse a given Hexadecimal number?
 7. WAP to encode a given decimal number to binary and decode back to decimal number?
+8. WAP to remove duplicates in an Array?
+9. WAP to count the frequency of charcters in the given word?
+10. WAP to create, reverse,remove nodes, add nodes and to find whether loop exist in it or not?
+11. Use of static with structure members is not allowed why? what happens?
+12. Implement your own strcpy(),memcpy()?
+13. Explain volatile,static, extern?
+14. Explain storage classes in C?
+15. Explain compilation stages in C?
+16. Explain more about linker stage and symbol table what it contains?
+17. Difference between Interrupts and Exceptions?
+
+``````````````````````````````````````````````````````````````````
+1. Explain the differences between Process and thread?
+2. What are the states present in process and types of processes?
+3. Scedulers and latency. GNATT chart?
+4. Scheduling Algorithms you know?
+5. what is priority inversion and priority inhertence?
+6. what is starvation and Aging, in which alogorith do we see it?
+7. MMU unit and it role?
+8. Name some OS and Kernels?
+9. What are page tables? How many levels of page tables do we have? Are they depedednt on archeiteture we use?
+10. What is TLB, TLB cache, TLB flush?
+11. What is Deadlock, when it will occur, How to predict it and how can we avoid it?
+12. What are the types of process communication mechanisms?
+13. Explain how process synchronization can be maintained via Mutex, Semaphore and Spin lock?
+
+```````````````````````````````````````````````````````````````````````````````````````````````````
